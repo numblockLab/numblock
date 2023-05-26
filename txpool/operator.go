@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/txpool/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/types"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )
 

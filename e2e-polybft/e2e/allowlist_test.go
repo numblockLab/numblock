@@ -4,11 +4,11 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/e2e-polybft/framework"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/state/runtime/allowlist"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/e2e-polybft/framework"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/state/runtime/allowlist"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo/wallet"
 )

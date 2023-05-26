@@ -8,10 +8,10 @@ import (
 	"math/bits"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/helper/keccak"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 )
 
 type instruction func(c *state)

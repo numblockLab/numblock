@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command/helper"
-	ibftHelper "https://github.com/numblockLab/numblock/command/ibft/helper"
-	ibftOp "https://github.com/numblockLab/numblock/consensus/ibft/proto"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/command/helper"
+	ibftHelper "github.com/numblockLab/numblock/command/ibft/helper"
+	ibftOp "github.com/numblockLab/numblock/consensus/ibft/proto"
+	"github.com/numblockLab/numblock/validators"
 )
 
 type IBFTSnapshotVote struct {

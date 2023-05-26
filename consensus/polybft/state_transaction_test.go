@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo/abi"

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"https://github.com/numblockLab/numblock/helper/progress"
-	"https://github.com/numblockLab/numblock/network/event"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/progress"
+	"github.com/numblockLab/numblock/network/event"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 	"github.com/libp2p/go-libp2p/core/peer"
 )

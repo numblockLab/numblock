@@ -1,10 +1,10 @@
 package license
 
 import (
-	"https://github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command"
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/licenses"
+	"github.com/numblockLab/numblock/licenses"
 )
 
 func GetCommand() *cobra.Command {

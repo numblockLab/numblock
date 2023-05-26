@@ -3,8 +3,8 @@ package main
 import (
 	_ "embed"
 
-	"https://github.com/numblockLab/numblock/command/root"
-	"https://github.com/numblockLab/numblock/licenses"
+	"github.com/numblockLab/numblock/command/root"
+	"github.com/numblockLab/numblock/licenses"
 )
 
 var (

@@ -4,11 +4,11 @@ import (
 	"encoding/binary"
 	"log"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo/abi"
 )
 

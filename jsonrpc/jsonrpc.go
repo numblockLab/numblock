@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"https://github.com/numblockLab/numblock/versioning"
+	"github.com/numblockLab/numblock/versioning"
 	"github.com/gorilla/websocket"
 	"github.com/hashicorp/go-hclog"
 )

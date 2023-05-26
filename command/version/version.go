@@ -1,8 +1,8 @@
 package version
 
 import (
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/versioning"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/versioning"
 	"github.com/spf13/cobra"
 )
 

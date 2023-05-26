@@ -6,7 +6,7 @@ import (
 	"hash"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/fastrlp"
 	"golang.org/x/crypto/sha3"
 )

@@ -3,8 +3,8 @@ package allowlist
 import (
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/types"
 )
 
 func ApplyGenesisAllocs(chain *chain.Genesis, allowListAddr types.Address, config *chain.AllowListConfig) {

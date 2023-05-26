@@ -3,11 +3,11 @@ package contract
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/contracts/staking"
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/contracts/staking"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 )
 
 // FetchValidators fetches validators from a contract switched by validator type

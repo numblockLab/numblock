@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/helper/tests"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 )
 

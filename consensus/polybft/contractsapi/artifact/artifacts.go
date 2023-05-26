@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/hex"
 	"github.com/umbracle/ethgo/abi"
 )
 

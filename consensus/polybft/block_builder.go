@@ -3,10 +3,10 @@ package polybft
 import (
 	"time"
 
-	"https://github.com/numblockLab/numblock/consensus"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/txpool"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/txpool"
+	"github.com/numblockLab/numblock/types"
 	hcf "github.com/hashicorp/go-hclog"
 )
 

@@ -7,8 +7,8 @@ import (
 	"io"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/server/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/server/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/grpc"

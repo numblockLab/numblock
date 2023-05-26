@@ -1,9 +1,9 @@
 package txpool
 
 import (
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/command/txpool/status"
-	"https://github.com/numblockLab/numblock/command/txpool/subscribe"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/txpool/status"
+	"github.com/numblockLab/numblock/command/txpool/subscribe"
 	"github.com/spf13/cobra"
 )
 

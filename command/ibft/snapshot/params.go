@@ -4,8 +4,8 @@ import (
 	"context"
 	"math"
 
-	"https://github.com/numblockLab/numblock/command/helper"
-	ibftOp "https://github.com/numblockLab/numblock/consensus/ibft/proto"
+	"github.com/numblockLab/numblock/command/helper"
+	ibftOp "github.com/numblockLab/numblock/consensus/ibft/proto"
 )
 
 const (

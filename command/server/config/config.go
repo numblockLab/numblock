@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/network"
+	"github.com/numblockLab/numblock/network"
 	"github.com/hashicorp/hcl"
 	"gopkg.in/yaml.v3"
 )

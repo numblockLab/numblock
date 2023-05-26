@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/server/proto"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/server/proto"
 )
 
 var (

@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/helper/common"
-	txpoolProto "https://github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/helper/common"
+	txpoolProto "github.com/numblockLab/numblock/txpool/proto"
 	"github.com/spf13/cobra"
 )
 

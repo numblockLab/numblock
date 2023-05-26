@@ -1,6 +1,6 @@
 package subscribe
 
-import "https://github.com/numblockLab/numblock/txpool/proto"
+import "github.com/numblockLab/numblock/txpool/proto"
 
 var (
 	params = &subscribeParams{}

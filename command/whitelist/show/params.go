@@ -3,10 +3,10 @@ package show
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/helper/config"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/helper/config"
+	"github.com/numblockLab/numblock/types"
 )
 
 const (

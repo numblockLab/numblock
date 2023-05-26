@@ -1,8 +1,8 @@
 package signer
 
 import (
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 )
 
 // KeyManager is a delegated module that signs data

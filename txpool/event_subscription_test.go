@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/helper/tests"
-	"https://github.com/numblockLab/numblock/txpool/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 )
 

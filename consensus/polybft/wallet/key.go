@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/0xPolygon/go-ibft/messages/proto"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/types"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo"
 	protobuf "google.golang.org/protobuf/proto"
 )

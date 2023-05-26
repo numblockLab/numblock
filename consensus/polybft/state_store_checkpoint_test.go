@@ -3,8 +3,8 @@ package polybft
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/helper/common"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo"

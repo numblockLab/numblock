@@ -4,10 +4,10 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/state/runtime/tracer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/state/runtime/tracer"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 )
 

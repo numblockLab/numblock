@@ -1,7 +1,7 @@
 package txpool
 
 import (
-	"https://github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/txpool/proto"
 )
 
 type subscriptionID int32

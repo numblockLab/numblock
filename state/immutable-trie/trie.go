@@ -7,8 +7,8 @@ import (
 	"github.com/umbracle/fastrlp"
 	"golang.org/x/crypto/sha3"
 
-	commonHelpers "https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/types"
+	commonHelpers "github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/types"
 )
 
 // Node represents a node reference

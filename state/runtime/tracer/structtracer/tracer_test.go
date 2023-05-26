@@ -7,11 +7,11 @@ import (
 	"strings"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/state/runtime/evm"
-	"https://github.com/numblockLab/numblock/state/runtime/tracer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/state/runtime/evm"
+	"github.com/numblockLab/numblock/state/runtime/tracer"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 )
 

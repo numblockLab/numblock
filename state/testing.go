@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 var addr1 = types.StringToAddress("1")

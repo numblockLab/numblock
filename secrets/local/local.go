@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/secrets"
 	"github.com/hashicorp/go-hclog"
 )
 

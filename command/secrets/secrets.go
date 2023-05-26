@@ -1,10 +1,10 @@
 package secrets
 
 import (
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/command/secrets/generate"
-	initCmd "https://github.com/numblockLab/numblock/command/secrets/init"
-	"https://github.com/numblockLab/numblock/command/secrets/output"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/secrets/generate"
+	initCmd "github.com/numblockLab/numblock/command/secrets/init"
+	"github.com/numblockLab/numblock/command/secrets/output"
 	"github.com/spf13/cobra"
 )
 

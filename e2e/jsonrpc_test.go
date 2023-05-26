@@ -6,8 +6,8 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/wallet"

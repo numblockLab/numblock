@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/licenses"
+	"github.com/numblockLab/numblock/licenses"
 )
 
 type LicenseResult struct {

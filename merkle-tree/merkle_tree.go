@@ -8,8 +8,8 @@ import (
 	"hash"
 	"math"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/types"
 )
 
 // A Merkle tree example:

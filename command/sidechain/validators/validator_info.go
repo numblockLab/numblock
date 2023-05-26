@@ -3,11 +3,11 @@ package validators
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/command/polybftsecrets"
-	sidechainHelper "https://github.com/numblockLab/numblock/command/sidechain"
-	"https://github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/polybftsecrets"
+	sidechainHelper "github.com/numblockLab/numblock/command/sidechain"
+	"github.com/numblockLab/numblock/txrelayer"
 	"github.com/spf13/cobra"
 )
 

@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/command/server/config"
-	ibftSigner "https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/helper/tests"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/command/server/config"
+	ibftSigner "github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/stretchr/testify/assert"
 	"github.com/umbracle/ethgo"
 )

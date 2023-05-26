@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/validators/store/snapshot"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/validators/store/snapshot"
 )
 
 // loadSnapshotMetadata loads Metadata from file

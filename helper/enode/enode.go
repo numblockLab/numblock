@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/helper/hex"
 )
 
 const nodeIDBytes = 512 / 8

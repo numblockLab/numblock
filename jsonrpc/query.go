@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 // LogQuery is a query to filter logs

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/hex"
 )
 
 // Header represents a block header in the Ethereum blockchain.

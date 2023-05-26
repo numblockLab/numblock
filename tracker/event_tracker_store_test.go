@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 	"github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

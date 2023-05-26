@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@ package proto
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/validate"
+	"github.com/numblockLab/numblock/validate"
 	"github.com/stretchr/testify/assert"
 )
 

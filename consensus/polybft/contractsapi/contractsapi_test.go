@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/abi"

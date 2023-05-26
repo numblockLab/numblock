@@ -5,7 +5,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 // A thread-safe wrapper of a minNonceQueue.

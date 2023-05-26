@@ -9,11 +9,11 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/consensus/polybft/wallet"
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/consensus/polybft/wallet"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 
 	"github.com/0xPolygon/go-ibft/messages"
 	"github.com/0xPolygon/go-ibft/messages/proto"

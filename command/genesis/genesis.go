@@ -3,12 +3,12 @@ package genesis
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/genesis/predeploy"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/consensus/ibft"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/genesis/predeploy"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/consensus/ibft"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/spf13/cobra"
 )
 

@@ -1,4 +1,4 @@
-module https://github.com/numblockLab/numblock
+module github.com/numblockLab/numblock
 
 go 1.18
 

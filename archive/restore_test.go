@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/helper/progress"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/helper/progress"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 )
 

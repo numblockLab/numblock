@@ -3,9 +3,9 @@ package ibftswitch
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/spf13/cobra"
 )
 

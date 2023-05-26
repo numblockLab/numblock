@@ -7,9 +7,9 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/umbracle/ethgo"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 type DeploymentResult struct {

@@ -1,8 +1,8 @@
 package snapshot
 
 import (
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 )
 
 // isAuthorize is a helper function to return the bool value from Nonce

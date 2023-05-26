@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/secrets/helper"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets/helper"
 )
 
 // common flags for all polybft commands

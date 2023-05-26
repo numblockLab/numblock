@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"https://github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/helper/keccak"
 )
 
 type TxType byte

@@ -1,6 +1,6 @@
 package txpool
 
-import "https://github.com/numblockLab/numblock/types"
+import "github.com/numblockLab/numblock/types"
 
 /* QUERY methods */
 // Used to query the pool for specific state info.

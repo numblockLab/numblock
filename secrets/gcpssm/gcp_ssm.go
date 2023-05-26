@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"https://github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets"
 	"github.com/hashicorp/go-hclog"
 
 	sm "cloud.google.com/go/secretmanager/apiv1"

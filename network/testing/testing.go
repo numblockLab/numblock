@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"https://github.com/numblockLab/numblock/network/event"
-	"https://github.com/numblockLab/numblock/network/proto"
+	"github.com/numblockLab/numblock/network/event"
+	"github.com/numblockLab/numblock/network/proto"
 	"github.com/libp2p/go-libp2p/core/network"
 	"github.com/libp2p/go-libp2p/core/peer"
 	"google.golang.org/grpc"

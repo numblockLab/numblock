@@ -3,7 +3,7 @@ package proto
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/validate"
+	"github.com/numblockLab/numblock/validate"
 	"github.com/golang/protobuf/ptypes/any"
 	"github.com/stretchr/testify/assert"
 )

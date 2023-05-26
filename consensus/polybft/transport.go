@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	ibftProto "github.com/0xPolygon/go-ibft/messages/proto"
-	polybftProto "https://github.com/numblockLab/numblock/consensus/polybft/proto"
-	"https://github.com/numblockLab/numblock/types"
+	polybftProto "github.com/numblockLab/numblock/consensus/polybft/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/libp2p/go-libp2p/core/peer"
 )
 

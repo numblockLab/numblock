@@ -3,7 +3,7 @@ package polybft
 import (
 	"sync"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 var setupHeaderHashFuncOnce sync.Once

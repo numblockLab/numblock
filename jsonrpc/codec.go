@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 // Request is a jsonrpc request

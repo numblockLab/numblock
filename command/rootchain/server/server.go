@@ -21,9 +21,9 @@ import (
 	"github.com/docker/go-connections/nat"
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/rootchain/helper"
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/rootchain/helper"
+	"github.com/numblockLab/numblock/helper/common"
 )
 
 const (

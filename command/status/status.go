@@ -3,12 +3,12 @@ package status
 import (
 	"context"
 
-	"https://github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command"
 	"github.com/golang/protobuf/ptypes/empty"
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/server/proto"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/server/proto"
 )
 
 func GetCommand() *cobra.Command {

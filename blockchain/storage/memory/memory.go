@@ -1,8 +1,8 @@
 package memory
 
 import (
-	"https://github.com/numblockLab/numblock/blockchain/storage"
-	"https://github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/blockchain/storage"
+	"github.com/numblockLab/numblock/helper/hex"
 	"github.com/hashicorp/go-hclog"
 )
 

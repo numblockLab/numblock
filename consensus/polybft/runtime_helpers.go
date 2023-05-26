@@ -1,8 +1,8 @@
 package polybft
 
 import (
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/types"
 )
 
 // isEndOfPeriod checks if an end of a period (either it be sprint or epoch)

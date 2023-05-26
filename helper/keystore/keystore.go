@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 )
 
 type createFn func() ([]byte, error)

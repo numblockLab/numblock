@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 
-	"https://github.com/numblockLab/numblock/network/grpc"
-	"https://github.com/numblockLab/numblock/syncer/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/network/grpc"
+	"github.com/numblockLab/numblock/syncer/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/golang/protobuf/ptypes/empty"
 )
 

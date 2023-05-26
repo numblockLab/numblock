@@ -3,8 +3,8 @@ package jsonrpc
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/helper/keccak"
-	"https://github.com/numblockLab/numblock/versioning"
+	"github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/versioning"
 )
 
 // Web3 is the web3 jsonrpc endpoint

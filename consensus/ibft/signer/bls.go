@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/coinbase/kryptology/pkg/signatures/bls/bls_sig"
 	"github.com/umbracle/fastrlp"
 )

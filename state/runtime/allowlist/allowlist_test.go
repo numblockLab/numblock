@@ -3,8 +3,8 @@ package allowlist
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo/abi"
 )

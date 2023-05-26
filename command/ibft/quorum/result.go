@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/helper/common"
 )
 
 type IBFTQuorumResult struct {

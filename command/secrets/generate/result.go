@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/helper"
 )
 
 type SecretsGenerateResult struct {

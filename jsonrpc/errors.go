@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/state/runtime"
 	"github.com/umbracle/ethgo/abi"
 )
 

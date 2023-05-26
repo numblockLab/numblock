@@ -6,11 +6,11 @@ import (
 
 	"golang.org/x/crypto/ripemd160" //nolint:staticcheck
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/helper/keccak"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 )
 
 type ecrecover struct {

@@ -7,11 +7,11 @@ import (
 
 	rawGrpc "google.golang.org/grpc"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/helper/progress"
-	"https://github.com/numblockLab/numblock/network"
-	"https://github.com/numblockLab/numblock/network/event"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/helper/progress"
+	"github.com/numblockLab/numblock/network"
+	"github.com/numblockLab/numblock/network/event"
+	"github.com/numblockLab/numblock/types"
 	"github.com/libp2p/go-libp2p/core/peer"
 	"google.golang.org/protobuf/proto"
 )

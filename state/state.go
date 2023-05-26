@@ -8,8 +8,8 @@ import (
 	iradix "github.com/hashicorp/go-immutable-radix"
 	"github.com/umbracle/fastrlp"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/types"
 )
 
 type State interface {

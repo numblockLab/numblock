@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/e2e-polybft/framework"
+	"github.com/numblockLab/numblock/e2e-polybft/framework"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/protobuf/types/known/emptypb"
 )

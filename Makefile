@@ -24,10 +24,10 @@ build:
 	$(eval BRANCH = $(shell git rev-parse --abbrev-ref HEAD | tr -d '\040\011\012\015\n'))
 	$(eval TIME = $(shell date))
 	go build -o polygon-edge -ldflags="\
-    	-X 'https://github.com/numblockLab/numblock/versioning.Version=$(LATEST_VERSION)' \
-		-X 'https://github.com/numblockLab/numblock/versioning.Commit=$(COMMIT_HASH)'\
-		-X 'https://github.com/numblockLab/numblock/versioning.Branch=$(BRANCH)'\
-		-X 'https://github.com/numblockLab/numblock/versioning.BuildTime=$(TIME)'" \
+    	-X 'github.com/numblockLab/numblock/versioning.Version=$(LATEST_VERSION)' \
+		-X 'github.com/numblockLab/numblock/versioning.Commit=$(COMMIT_HASH)'\
+		-X 'github.com/numblockLab/numblock/versioning.Branch=$(BRANCH)'\
+		-X 'github.com/numblockLab/numblock/versioning.BuildTime=$(TIME)'" \
 	main.go
 
 .PHONY: lint

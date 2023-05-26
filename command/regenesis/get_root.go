@@ -3,7 +3,7 @@ package regenesis
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command"
 	"github.com/spf13/cobra"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/jsonrpc"

@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/e2e-polybft/framework"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/e2e-polybft/framework"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/require"
 	"pgregory.net/rapid"
 )

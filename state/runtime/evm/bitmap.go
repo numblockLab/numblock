@@ -1,6 +1,6 @@
 package evm
 
-import "https://github.com/numblockLab/numblock/helper/common"
+import "github.com/numblockLab/numblock/helper/common"
 
 const bitmapSize = 8
 

@@ -3,7 +3,7 @@ package jsonrpc
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 )
 

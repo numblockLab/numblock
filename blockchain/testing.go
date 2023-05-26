@@ -6,15 +6,15 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/blockchain/storage"
-	"https://github.com/numblockLab/numblock/blockchain/storage/memory"
+	"github.com/numblockLab/numblock/blockchain/storage"
+	"github.com/numblockLab/numblock/blockchain/storage/memory"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/state"
-	itrie "https://github.com/numblockLab/numblock/state/immutable-trie"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/state"
+	itrie "github.com/numblockLab/numblock/state/immutable-trie"
 	"github.com/hashicorp/go-hclog"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 var (

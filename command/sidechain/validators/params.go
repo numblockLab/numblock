@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command/helper"
-	sidechainHelper "https://github.com/numblockLab/numblock/command/sidechain"
+	"github.com/numblockLab/numblock/command/helper"
+	sidechainHelper "github.com/numblockLab/numblock/command/sidechain"
 )
 
 type validatorInfoParams struct {

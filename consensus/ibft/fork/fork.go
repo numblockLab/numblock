@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/validators"
 )
 
 const (

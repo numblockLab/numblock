@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/helper/keccak"
 )
 
 func min(i, j int) int {

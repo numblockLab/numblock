@@ -4,9 +4,9 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/bitmap"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/bitmap"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

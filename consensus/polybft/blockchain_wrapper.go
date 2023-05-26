@@ -8,11 +8,11 @@ import (
 
 	"github.com/hashicorp/go-hclog"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/consensus"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/consensus"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/contract"
 )

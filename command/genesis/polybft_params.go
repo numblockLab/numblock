@@ -7,18 +7,18 @@ import (
 	"strings"
 	"time"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft"
-	"https://github.com/numblockLab/numblock/consensus/polybft/bitmap"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/server"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft"
+	"github.com/numblockLab/numblock/consensus/polybft/bitmap"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/server"
+	"github.com/numblockLab/numblock/types"
 )
 
 const (

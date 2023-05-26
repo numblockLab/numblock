@@ -9,11 +9,11 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/bitmap"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/consensus/polybft/wallet"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/bitmap"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/consensus/polybft/wallet"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/require"
 )

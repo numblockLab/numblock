@@ -8,15 +8,15 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/txpool"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/txpool"
 	"github.com/umbracle/ethgo"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/helper/tests"
-	txpoolOp "https://github.com/numblockLab/numblock/txpool/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/helper/tests"
+	txpoolOp "github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/golang/protobuf/ptypes/any"
 	"github.com/stretchr/testify/assert"
 )

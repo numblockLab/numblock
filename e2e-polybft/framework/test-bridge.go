@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/command/rootchain/server"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command/rootchain/server"
+	"github.com/numblockLab/numblock/types"
 )
 
 type TestBridge struct {

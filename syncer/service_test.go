@@ -7,8 +7,8 @@ import (
 	"net"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/syncer/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/syncer/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"

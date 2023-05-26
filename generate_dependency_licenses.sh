@@ -11,7 +11,7 @@
 # go get github.com/google/go-licenses
 
 # Constants
-PACKAGE="https://github.com/numblockLab/numblock"
+PACKAGE="github.com/numblockLab/numblock"
 
 # Arguments
 licenses=( `echo $1 | tr -s ',' ' '`)

@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/fastrlp"
 )
 

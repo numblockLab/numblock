@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/validators"
 )
 
 func TestClusterBlockSync(t *testing.T) {

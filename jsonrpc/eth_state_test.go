@@ -5,11 +5,11 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/umbracle/fastrlp"
 )

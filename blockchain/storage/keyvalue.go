@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 	"github.com/umbracle/fastrlp"
 )

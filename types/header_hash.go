@@ -1,7 +1,7 @@
 package types
 
 import (
-	"https://github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/helper/keccak"
 	"github.com/umbracle/fastrlp"
 )
 

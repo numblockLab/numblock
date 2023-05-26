@@ -8,12 +8,12 @@ import (
 	"github.com/hashicorp/go-hclog"
 	"github.com/umbracle/fastrlp"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/helper/progress"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/progress"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 )
 
 type ethTxPoolStore interface {

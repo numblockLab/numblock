@@ -11,14 +11,14 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/abi"
 
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/helper/tests"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 	hcf "github.com/hashicorp/go-hclog"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/tracker/store"

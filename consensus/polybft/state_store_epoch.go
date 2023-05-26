@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 	bolt "go.etcd.io/bbolt"
 )
 

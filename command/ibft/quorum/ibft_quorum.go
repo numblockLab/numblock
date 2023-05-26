@@ -3,8 +3,8 @@ package quorum
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
 	"github.com/spf13/cobra"
 )
 

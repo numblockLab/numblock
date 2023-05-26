@@ -4,7 +4,7 @@ import (
 	"container/heap"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/network/common"
+	"github.com/numblockLab/numblock/network/common"
 
 	"github.com/libp2p/go-libp2p/core/peer"
 )

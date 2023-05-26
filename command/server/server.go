@@ -3,11 +3,11 @@ package server
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/command/server/config"
-	"https://github.com/numblockLab/numblock/command/server/export"
-	"https://github.com/numblockLab/numblock/server"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/server/config"
+	"github.com/numblockLab/numblock/command/server/export"
+	"github.com/numblockLab/numblock/server"
 	"github.com/spf13/cobra"
 )
 

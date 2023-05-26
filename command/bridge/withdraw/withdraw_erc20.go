@@ -13,13 +13,13 @@ import (
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/wallet"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/bridge/common"
-	cmdHelper "https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/bridge/common"
+	cmdHelper "github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 )
 
 const (

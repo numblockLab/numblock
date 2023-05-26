@@ -8,7 +8,7 @@ import (
 	"log"
 	"math/big"
 
-	pcrypto "https://github.com/numblockLab/numblock/crypto"
+	pcrypto "github.com/numblockLab/numblock/crypto"
 	bn256 "github.com/umbracle/go-eth-bn256"
 )
 

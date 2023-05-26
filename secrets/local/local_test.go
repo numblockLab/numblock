@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/secrets"
 	"github.com/hashicorp/go-hclog"
 	libp2pCrypto "github.com/libp2p/go-libp2p/core/crypto"
 	"github.com/stretchr/testify/assert"

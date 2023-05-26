@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/network/proto"
-	networkTesting "https://github.com/numblockLab/numblock/network/testing"
+	"github.com/numblockLab/numblock/network/proto"
+	networkTesting "github.com/numblockLab/numblock/network/testing"
 	"github.com/hashicorp/go-hclog"
 	"github.com/libp2p/go-libp2p/core/network"
 	"github.com/libp2p/go-libp2p/core/peer"

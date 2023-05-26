@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo/abi"
 )
 

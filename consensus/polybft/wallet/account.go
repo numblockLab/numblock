@@ -5,8 +5,8 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/secrets"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/secrets"
 	"github.com/umbracle/ethgo/wallet"
 )
 

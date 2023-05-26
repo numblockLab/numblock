@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/consensus/polybft/wallet"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/secrets/helper"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/consensus/polybft/wallet"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets/helper"
+	"github.com/numblockLab/numblock/types"
 	"github.com/spf13/cobra"
 )
 

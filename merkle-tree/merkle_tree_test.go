@@ -4,8 +4,8 @@ import (
 	"math"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/require"
 )
 

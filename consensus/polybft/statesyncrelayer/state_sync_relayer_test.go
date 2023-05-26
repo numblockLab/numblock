@@ -4,8 +4,8 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"

@@ -3,7 +3,7 @@ package fork
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/validators/store"
+	"github.com/numblockLab/numblock/validators/store"
 )
 
 // Define the type of the IBFT consensus

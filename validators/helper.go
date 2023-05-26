@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 var (

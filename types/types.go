@@ -5,8 +5,8 @@ import (
 	"strings"
 	"unicode"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/keccak"
 )
 
 var ZeroAddress = Address{}

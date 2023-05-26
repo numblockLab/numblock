@@ -3,9 +3,9 @@ package itrie
 import (
 	"bytes"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/fastrlp"
 )
 

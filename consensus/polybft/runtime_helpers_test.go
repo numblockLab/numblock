@@ -3,9 +3,9 @@ package polybft
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/consensus/polybft/bitmap"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/consensus/polybft/bitmap"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

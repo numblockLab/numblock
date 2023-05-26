@@ -1,7 +1,7 @@
 package command
 
 import (
-	"https://github.com/numblockLab/numblock/server"
+	"github.com/numblockLab/numblock/server"
 	"github.com/umbracle/ethgo"
 )
 

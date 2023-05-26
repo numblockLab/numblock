@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/e2e-polybft/framework"
-	serverProto "https://github.com/numblockLab/numblock/server/proto"
-	txpoolProto "https://github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/e2e-polybft/framework"
+	serverProto "github.com/numblockLab/numblock/server/proto"
+	txpoolProto "github.com/numblockLab/numblock/txpool/proto"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/protobuf/types/known/emptypb"
 )

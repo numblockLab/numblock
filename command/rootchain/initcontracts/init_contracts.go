@@ -8,14 +8,14 @@ import (
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/jsonrpc"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/rootchain/helper"
-	"https://github.com/numblockLab/numblock/consensus/polybft"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/rootchain/helper"
+	"github.com/numblockLab/numblock/consensus/polybft"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 )
 
 const (

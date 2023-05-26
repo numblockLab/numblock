@@ -5,9 +5,9 @@ import (
 
 	"github.com/hashicorp/go-hclog"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/network"
-	"https://github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/network"
+	"github.com/numblockLab/numblock/secrets"
 )
 
 const DefaultGRPCPort int = 9632

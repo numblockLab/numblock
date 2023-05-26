@@ -5,17 +5,17 @@ import (
 	"fmt"
 	"time"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/consensus/ibft"
-	"https://github.com/numblockLab/numblock/consensus/ibft/fork"
-	"https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/contracts/staking"
-	stakingHelper "https://github.com/numblockLab/numblock/helper/staking"
-	"https://github.com/numblockLab/numblock/server"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/consensus/ibft"
+	"github.com/numblockLab/numblock/consensus/ibft/fork"
+	"github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/contracts/staking"
+	stakingHelper "github.com/numblockLab/numblock/helper/staking"
+	"github.com/numblockLab/numblock/server"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 )
 
 const (

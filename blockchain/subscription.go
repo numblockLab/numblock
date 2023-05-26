@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 type void struct{}

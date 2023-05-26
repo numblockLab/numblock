@@ -3,8 +3,8 @@ package polybft
 import (
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 )
 

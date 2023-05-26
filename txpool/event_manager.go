@@ -5,8 +5,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"https://github.com/numblockLab/numblock/txpool/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/google/uuid"
 	"github.com/hashicorp/go-hclog"
 )

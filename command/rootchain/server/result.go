@@ -6,7 +6,7 @@ import (
 
 	"github.com/docker/docker/api/types/container"
 
-	"https://github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/helper"
 )
 
 type containerStopResult struct {

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/contract"
 )

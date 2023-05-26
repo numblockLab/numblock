@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	testHelper "https://github.com/numblockLab/numblock/helper/tests"
+	testHelper "github.com/numblockLab/numblock/helper/tests"
 	"github.com/stretchr/testify/assert"
 )
 

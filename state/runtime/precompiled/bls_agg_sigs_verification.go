@@ -3,10 +3,10 @@ package precompiled
 import (
 	"errors"
 
-	"https://github.com/numblockLab/numblock/chain"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo/abi"
 )
 

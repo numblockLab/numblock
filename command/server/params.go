@@ -4,11 +4,11 @@ import (
 	"errors"
 	"net"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/command/server/config"
-	"https://github.com/numblockLab/numblock/network"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/server"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/command/server/config"
+	"github.com/numblockLab/numblock/network"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/server"
 	"github.com/hashicorp/go-hclog"
 	"github.com/multiformats/go-multiaddr"
 )

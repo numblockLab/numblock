@@ -4,9 +4,9 @@ import (
 	"os"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/rootchain/helper"
-	"https://github.com/numblockLab/numblock/consensus/polybft"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/rootchain/helper"
+	"github.com/numblockLab/numblock/consensus/polybft"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo/jsonrpc"
 	"github.com/umbracle/ethgo/testutil"

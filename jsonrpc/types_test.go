@@ -10,9 +10,9 @@ import (
 	"testing"
 	"text/template"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/hex"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

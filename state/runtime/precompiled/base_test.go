@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/types"
 )
 
 type precompiledTest struct {

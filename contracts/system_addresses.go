@@ -1,6 +1,6 @@
 package contracts
 
-import "https://github.com/numblockLab/numblock/types"
+import "github.com/numblockLab/numblock/types"
 
 var (
 	// ValidatorSetContract is an address of validator set contract deployed to child chain

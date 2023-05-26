@@ -7,9 +7,9 @@ import (
 
 	"github.com/0xPolygon/go-ibft/messages"
 	protoIBFT "github.com/0xPolygon/go-ibft/messages/proto"
-	"https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/types"
 )
 
 // Verifier impl for go-ibft

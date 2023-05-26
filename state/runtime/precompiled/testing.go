@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/hex"
 )
 
 type TestCase struct {

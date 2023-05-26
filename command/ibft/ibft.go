@@ -1,13 +1,13 @@
 package ibft
 
 import (
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/command/ibft/candidates"
-	"https://github.com/numblockLab/numblock/command/ibft/propose"
-	"https://github.com/numblockLab/numblock/command/ibft/quorum"
-	"https://github.com/numblockLab/numblock/command/ibft/snapshot"
-	"https://github.com/numblockLab/numblock/command/ibft/status"
-	_switch "https://github.com/numblockLab/numblock/command/ibft/switch"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/ibft/candidates"
+	"github.com/numblockLab/numblock/command/ibft/propose"
+	"github.com/numblockLab/numblock/command/ibft/quorum"
+	"github.com/numblockLab/numblock/command/ibft/snapshot"
+	"github.com/numblockLab/numblock/command/ibft/status"
+	_switch "github.com/numblockLab/numblock/command/ibft/switch"
 	"github.com/spf13/cobra"
 )
 

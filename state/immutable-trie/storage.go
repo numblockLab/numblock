@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/umbracle/fastrlp"

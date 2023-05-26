@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
-	itrie "https://github.com/numblockLab/numblock/state/immutable-trie"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command"
+	itrie "github.com/numblockLab/numblock/state/immutable-trie"
+	"github.com/numblockLab/numblock/types"
 	"github.com/spf13/cobra"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/opt"

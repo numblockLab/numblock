@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/hex"
 )
 
 func ParseUint64orHex(val *string) (uint64, error) {

@@ -3,8 +3,8 @@ package evm
 import (
 	"errors"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/state/runtime"
 )
 
 var _ runtime.Runtime = &EVM{}

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 	bn256 "github.com/umbracle/go-eth-bn256"
 )
 

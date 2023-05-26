@@ -9,10 +9,10 @@ import (
 	"path"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/genesis"
-	"https://github.com/numblockLab/numblock/consensus/polybft"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/genesis"
+	"github.com/numblockLab/numblock/consensus/polybft"
+	"github.com/numblockLab/numblock/types"
 	"github.com/multiformats/go-multiaddr"
 	"github.com/spf13/cobra"
 )

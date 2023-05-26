@@ -7,8 +7,8 @@ import (
 	"math/big"
 	"os"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-multierror"
 )
 

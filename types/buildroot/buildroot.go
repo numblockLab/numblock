@@ -1,9 +1,9 @@
 package buildroot
 
 import (
-	"https://github.com/numblockLab/numblock/helper/keccak"
-	itrie "https://github.com/numblockLab/numblock/state/immutable-trie"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/keccak"
+	itrie "github.com/numblockLab/numblock/state/immutable-trie"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/fastrlp"
 )
 

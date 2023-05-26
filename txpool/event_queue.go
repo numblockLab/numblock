@@ -3,7 +3,7 @@ package txpool
 import (
 	"sync"
 
-	"https://github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/txpool/proto"
 )
 
 type eventQueue struct {

@@ -7,12 +7,12 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"https://github.com/numblockLab/numblock/blockchain/storage"
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/types/buildroot"
+	"github.com/numblockLab/numblock/blockchain/storage"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types/buildroot"
 
 	"github.com/hashicorp/go-hclog"
 	lru "github.com/hashicorp/golang-lru"

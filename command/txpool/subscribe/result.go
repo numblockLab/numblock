@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command/helper"
-	txpoolProto "https://github.com/numblockLab/numblock/txpool/proto"
+	"github.com/numblockLab/numblock/command/helper"
+	txpoolProto "github.com/numblockLab/numblock/txpool/proto"
 )
 
 type TxPoolEventResult struct {

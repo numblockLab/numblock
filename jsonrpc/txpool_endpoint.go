@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 // txPoolStore provides access to the methods needed for txpool endpoint

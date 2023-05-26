@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/helper/common"
 )
 
 const (

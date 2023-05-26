@@ -5,12 +5,12 @@ import (
 	"errors"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/consensus/ibft/proto"
-	"https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
-	"https://github.com/numblockLab/numblock/validators/store"
+	"github.com/numblockLab/numblock/consensus/ibft/proto"
+	"github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/validators/store"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )
 

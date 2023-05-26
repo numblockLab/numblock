@@ -1,18 +1,18 @@
 package server
 
 import (
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/consensus"
-	consensusDev "https://github.com/numblockLab/numblock/consensus/dev"
-	consensusDummy "https://github.com/numblockLab/numblock/consensus/dummy"
-	consensusIBFT "https://github.com/numblockLab/numblock/consensus/ibft"
-	consensusPolyBFT "https://github.com/numblockLab/numblock/consensus/polybft"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/secrets/awsssm"
-	"https://github.com/numblockLab/numblock/secrets/gcpssm"
-	"https://github.com/numblockLab/numblock/secrets/hashicorpvault"
-	"https://github.com/numblockLab/numblock/secrets/local"
-	"https://github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/consensus"
+	consensusDev "github.com/numblockLab/numblock/consensus/dev"
+	consensusDummy "github.com/numblockLab/numblock/consensus/dummy"
+	consensusIBFT "github.com/numblockLab/numblock/consensus/ibft"
+	consensusPolyBFT "github.com/numblockLab/numblock/consensus/polybft"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets/awsssm"
+	"github.com/numblockLab/numblock/secrets/gcpssm"
+	"github.com/numblockLab/numblock/secrets/hashicorpvault"
+	"github.com/numblockLab/numblock/secrets/local"
+	"github.com/numblockLab/numblock/state"
 )
 
 type GenesisFactoryHook func(config *chain.Chain, engineName string) func(*state.Transition) error

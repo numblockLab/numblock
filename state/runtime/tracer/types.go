@@ -3,7 +3,7 @@ package tracer
 import (
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 // RuntimeHost is the interface defining the methods for accessing state by tracer

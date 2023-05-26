@@ -1,7 +1,7 @@
 package output
 
 import (
-	"https://github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command"
 	"github.com/spf13/cobra"
 )
 

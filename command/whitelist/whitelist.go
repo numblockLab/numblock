@@ -1,8 +1,8 @@
 package whitelist
 
 import (
-	"https://github.com/numblockLab/numblock/command/whitelist/deployment"
-	"https://github.com/numblockLab/numblock/command/whitelist/show"
+	"github.com/numblockLab/numblock/command/whitelist/deployment"
+	"github.com/numblockLab/numblock/command/whitelist/show"
 	"github.com/spf13/cobra"
 )
 

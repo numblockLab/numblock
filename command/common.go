@@ -5,12 +5,12 @@ import (
 	"os"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/secrets/local"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets/local"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/hashicorp/go-hclog"
 )
 

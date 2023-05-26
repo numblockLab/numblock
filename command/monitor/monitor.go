@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"io"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/helper/common"
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/server/proto"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/server/proto"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )
 

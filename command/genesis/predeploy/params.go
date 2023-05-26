@@ -5,13 +5,13 @@ import (
 	"fmt"
 	"os"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/contracts/staking"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/helper/predeployment"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/contracts/staking"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/predeployment"
+	"github.com/numblockLab/numblock/types"
 )
 
 const (

@@ -1,10 +1,10 @@
 package peers
 
 import (
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/command/peers/add"
-	"https://github.com/numblockLab/numblock/command/peers/list"
-	"https://github.com/numblockLab/numblock/command/peers/status"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/peers/add"
+	"github.com/numblockLab/numblock/command/peers/list"
+	"github.com/numblockLab/numblock/command/peers/status"
 	"github.com/spf13/cobra"
 )
 

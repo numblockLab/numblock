@@ -3,10 +3,10 @@ package propose
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command"
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command/helper"
 )
 
 func GetCommand() *cobra.Command {

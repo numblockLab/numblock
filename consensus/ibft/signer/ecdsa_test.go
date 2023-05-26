@@ -5,12 +5,12 @@ import (
 	"errors"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	testHelper "https://github.com/numblockLab/numblock/helper/tests"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/helper/hex"
+	testHelper "github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/stretchr/testify/assert"
 )
 

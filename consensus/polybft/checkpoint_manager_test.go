@@ -9,21 +9,21 @@ import (
 
 	"github.com/umbracle/ethgo/abi"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/merkle-tree"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/merkle-tree"
 	hclog "github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo"
 
-	"https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/consensus/polybft/bitmap"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/consensus/polybft/wallet"
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/consensus/polybft/bitmap"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/consensus/polybft/wallet"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 )
 
 func TestCheckpointManager_SubmitCheckpoint(t *testing.T) {

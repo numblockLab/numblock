@@ -3,7 +3,7 @@ package chain
 import (
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 // Params are all the set of params for the chain

@@ -1,8 +1,8 @@
 package store
 
 import (
-	"https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/types"
 )
 
 // Utilities for test

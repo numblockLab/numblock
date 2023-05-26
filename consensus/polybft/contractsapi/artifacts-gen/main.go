@@ -7,7 +7,7 @@ import (
 	"path"
 	"runtime"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
 	"github.com/dave/jennifer/jen"
 )
 

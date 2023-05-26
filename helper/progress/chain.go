@@ -3,7 +3,7 @@ package progress
 import (
 	"sync"
 
-	"https://github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/blockchain"
 )
 
 type ChainSyncType string

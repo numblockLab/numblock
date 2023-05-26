@@ -9,11 +9,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/types"
 )
 
 // PolyBFTConfig is the configuration file for the Polybft consensus protocol.

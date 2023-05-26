@@ -4,8 +4,8 @@ import (
 	"math/big"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/types"
 )
 
 type mockAccount struct {

@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"time"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/state/runtime/tracer"
-	"https://github.com/numblockLab/numblock/state/runtime/tracer/structtracer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/state/runtime/tracer"
+	"github.com/numblockLab/numblock/state/runtime/tracer/structtracer"
+	"github.com/numblockLab/numblock/types"
 )
 
 var (

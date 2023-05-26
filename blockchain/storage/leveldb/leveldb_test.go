@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/blockchain/storage"
+	"github.com/numblockLab/numblock/blockchain/storage"
 	"github.com/hashicorp/go-hclog"
 )
 

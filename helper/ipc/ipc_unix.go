@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 )
 
 // Dial dials an IPC path

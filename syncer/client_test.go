@@ -11,12 +11,12 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/network"
-	"https://github.com/numblockLab/numblock/network/event"
-	"https://github.com/numblockLab/numblock/network/grpc"
-	"https://github.com/numblockLab/numblock/syncer/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/network"
+	"github.com/numblockLab/numblock/network/event"
+	"github.com/numblockLab/numblock/network/grpc"
+	"github.com/numblockLab/numblock/syncer/proto"
+	"github.com/numblockLab/numblock/types"
 )
 
 var (

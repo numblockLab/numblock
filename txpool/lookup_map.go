@@ -3,7 +3,7 @@ package txpool
 import (
 	"sync"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 // Lookup map used to find transactions present in the pool

@@ -3,7 +3,7 @@ package polybftsecrets
 import (
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command"
 )
 
 var basicParams = &initParams{}

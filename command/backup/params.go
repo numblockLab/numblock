@@ -3,10 +3,10 @@ package backup
 import (
 	"errors"
 
-	"https://github.com/numblockLab/numblock/archive"
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/archive"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 )
 

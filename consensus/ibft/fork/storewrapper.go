@@ -5,11 +5,11 @@ import (
 	"errors"
 	"path/filepath"
 
-	"https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/validators"
-	"https://github.com/numblockLab/numblock/validators/store"
-	"https://github.com/numblockLab/numblock/validators/store/contract"
-	"https://github.com/numblockLab/numblock/validators/store/snapshot"
+	"github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/validators/store"
+	"github.com/numblockLab/numblock/validators/store/contract"
+	"github.com/numblockLab/numblock/validators/store/snapshot"
 	"github.com/hashicorp/go-hclog"
 )
 

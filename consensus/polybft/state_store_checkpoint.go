@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"sort"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo"
 	bolt "go.etcd.io/bbolt"
 )

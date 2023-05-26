@@ -3,9 +3,9 @@ package init
 import (
 	"errors"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/secrets/helper"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets/helper"
 )
 
 const (

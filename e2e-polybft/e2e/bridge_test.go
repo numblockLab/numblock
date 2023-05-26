@@ -14,16 +14,16 @@ import (
 	"github.com/umbracle/ethgo"
 	ethgow "github.com/umbracle/ethgo/wallet"
 
-	"https://github.com/numblockLab/numblock/command/genesis"
-	rootchainHelper "https://github.com/numblockLab/numblock/command/rootchain/helper"
-	"https://github.com/numblockLab/numblock/command/sidechain"
-	"https://github.com/numblockLab/numblock/consensus/polybft"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/e2e-polybft/framework"
+	"github.com/numblockLab/numblock/command/genesis"
+	rootchainHelper "github.com/numblockLab/numblock/command/rootchain/helper"
+	"github.com/numblockLab/numblock/command/sidechain"
+	"github.com/numblockLab/numblock/consensus/polybft"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/e2e-polybft/framework"
 
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 )
 
 const (

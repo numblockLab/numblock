@@ -7,11 +7,11 @@ import (
 
 	"github.com/0xPolygon/go-ibft/messages"
 	"github.com/0xPolygon/go-ibft/messages/proto"
-	"https://github.com/numblockLab/numblock/consensus"
-	"https://github.com/numblockLab/numblock/consensus/ibft/signer"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus"
+	"github.com/numblockLab/numblock/consensus/ibft/signer"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
 )
 
 func (i *backendIBFT) BuildProposal(view *proto.View) []byte {

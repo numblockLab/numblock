@@ -8,12 +8,12 @@ import (
 
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	frameworkpolybft "https://github.com/numblockLab/numblock/e2e-polybft/framework"
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	itrie "https://github.com/numblockLab/numblock/state/immutable-trie"
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	frameworkpolybft "github.com/numblockLab/numblock/e2e-polybft/framework"
+	"github.com/numblockLab/numblock/e2e/framework"
+	itrie "github.com/numblockLab/numblock/state/immutable-trie"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/syndtr/goleveldb/leveldb"

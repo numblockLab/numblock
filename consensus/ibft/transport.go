@@ -2,8 +2,8 @@ package ibft
 
 import (
 	"github.com/0xPolygon/go-ibft/messages/proto"
-	"https://github.com/numblockLab/numblock/network"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/network"
+	"github.com/numblockLab/numblock/types"
 	"github.com/libp2p/go-libp2p/core/peer"
 )
 

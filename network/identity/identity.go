@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"sync"
 
-	"https://github.com/numblockLab/numblock/network/event"
+	"github.com/numblockLab/numblock/network/event"
 	"github.com/hashicorp/go-hclog"
 
-	"https://github.com/numblockLab/numblock/network/proto"
+	"github.com/numblockLab/numblock/network/proto"
 	"github.com/libp2p/go-libp2p/core/network"
 	"github.com/libp2p/go-libp2p/core/peer"
 )

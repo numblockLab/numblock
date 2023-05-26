@@ -3,14 +3,14 @@ package fork
 import (
 	"errors"
 
-	"https://github.com/numblockLab/numblock/consensus/ibft/hook"
-	"https://github.com/numblockLab/numblock/contracts/staking"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	stakingHelper "https://github.com/numblockLab/numblock/helper/staking"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
-	"https://github.com/numblockLab/numblock/validators/store"
+	"github.com/numblockLab/numblock/consensus/ibft/hook"
+	"github.com/numblockLab/numblock/contracts/staking"
+	"github.com/numblockLab/numblock/helper/hex"
+	stakingHelper "github.com/numblockLab/numblock/helper/staking"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/validators/store"
 )
 
 var (

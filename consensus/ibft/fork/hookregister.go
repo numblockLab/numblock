@@ -1,7 +1,7 @@
 package fork
 
 import (
-	"https://github.com/numblockLab/numblock/consensus/ibft/hook"
+	"github.com/numblockLab/numblock/consensus/ibft/hook"
 )
 
 // PoAHookRegisterer that registers hooks for PoA mode

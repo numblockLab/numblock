@@ -3,7 +3,7 @@ package network
 import (
 	"encoding/hex"
 
-	"https://github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets"
 	"github.com/libp2p/go-libp2p/core/crypto"
 )
 

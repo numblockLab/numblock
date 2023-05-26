@@ -3,7 +3,7 @@ package leveldb
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/blockchain/storage"
+	"github.com/numblockLab/numblock/blockchain/storage"
 	"github.com/hashicorp/go-hclog"
 	"github.com/syndtr/goleveldb/leveldb"
 )

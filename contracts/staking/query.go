@@ -6,9 +6,9 @@ import (
 
 	"github.com/umbracle/ethgo"
 
-	"https://github.com/numblockLab/numblock/contracts/abis"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/contracts/abis"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo/abi"
 )
 

@@ -6,16 +6,16 @@ import (
 	"math"
 	"net"
 
-	"https://github.com/numblockLab/numblock/command/server/config"
+	"github.com/numblockLab/numblock/command/server/config"
 
-	"https://github.com/numblockLab/numblock/network/common"
+	"github.com/numblockLab/numblock/network/common"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/command/helper"
-	"https://github.com/numblockLab/numblock/network"
-	"https://github.com/numblockLab/numblock/secrets"
-	"https://github.com/numblockLab/numblock/server"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/network"
+	"github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/server"
+	"github.com/numblockLab/numblock/types"
 )
 
 var (

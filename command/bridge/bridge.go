@@ -3,9 +3,9 @@ package bridge
 import (
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/command/bridge/deposit"
-	"https://github.com/numblockLab/numblock/command/bridge/exit"
-	"https://github.com/numblockLab/numblock/command/bridge/withdraw"
+	"github.com/numblockLab/numblock/command/bridge/deposit"
+	"github.com/numblockLab/numblock/command/bridge/exit"
+	"github.com/numblockLab/numblock/command/bridge/withdraw"
 )
 
 // GetCommand creates "bridge" helper command

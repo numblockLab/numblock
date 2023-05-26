@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/helper/keccak"
 )
 
 func BenchmarkFast(b *testing.B) {

@@ -10,8 +10,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/types"
 	"github.com/google/uuid"
 	"github.com/gorilla/websocket"
 	"github.com/hashicorp/go-hclog"

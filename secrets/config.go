@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"os"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 )
 
 // SecretsManagerConfig is the configuration that gets

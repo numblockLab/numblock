@@ -3,7 +3,7 @@ package merkle
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 	"github.com/stretchr/testify/require"
 )
 

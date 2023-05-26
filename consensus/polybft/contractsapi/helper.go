@@ -3,7 +3,7 @@ package contractsapi
 import (
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo/abi"
 )
 

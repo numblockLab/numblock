@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/helper/keccak"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 )
 
 var (

@@ -1,8 +1,8 @@
 package consensus
 
 import (
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/types/buildroot"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types/buildroot"
 )
 
 // BuildBlockParams are parameters passed into the BuildBlock helper method

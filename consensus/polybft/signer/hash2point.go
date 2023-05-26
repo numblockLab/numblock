@@ -5,7 +5,7 @@ import (
 	"errors"
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/helper/common"
 	bn256 "github.com/umbracle/go-eth-bn256"
 )
 

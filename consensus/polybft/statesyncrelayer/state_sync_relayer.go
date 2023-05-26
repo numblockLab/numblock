@@ -9,11 +9,11 @@ import (
 	"path"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/contracts"
-	"https://github.com/numblockLab/numblock/tracker"
-	"https://github.com/numblockLab/numblock/txrelayer"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/contracts"
+	"github.com/numblockLab/numblock/tracker"
+	"github.com/numblockLab/numblock/txrelayer"
+	"github.com/numblockLab/numblock/types"
 
 	hcf "github.com/hashicorp/go-hclog"
 	"github.com/umbracle/ethgo"

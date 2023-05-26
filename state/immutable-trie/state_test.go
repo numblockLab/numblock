@@ -3,7 +3,7 @@ package itrie
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/state"
 )
 
 func TestState(t *testing.T) {

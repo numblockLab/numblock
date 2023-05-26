@@ -1,12 +1,12 @@
 package dummy
 
 import (
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/consensus"
-	"https://github.com/numblockLab/numblock/helper/progress"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/txpool"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/consensus"
+	"github.com/numblockLab/numblock/helper/progress"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/txpool"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 )
 

@@ -6,8 +6,8 @@ import (
 	"net"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/helper/tests"
-	"https://github.com/numblockLab/numblock/versioning"
+	"github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/versioning"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/hashicorp/go-hclog"

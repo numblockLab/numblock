@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/server/config"
-	"https://github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/server/config"
+	"github.com/numblockLab/numblock/helper/common"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v3"
 )

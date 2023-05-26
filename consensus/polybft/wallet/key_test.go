@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/0xPolygon/go-ibft/messages/proto"
-	bls "https://github.com/numblockLab/numblock/consensus/polybft/signer"
+	bls "github.com/numblockLab/numblock/consensus/polybft/signer"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

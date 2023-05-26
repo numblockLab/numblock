@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 )
 
 func TestBlake2f(t *testing.T) {

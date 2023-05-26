@@ -3,7 +3,7 @@ package deployment
 import (
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command"
 	"github.com/spf13/cobra"
 )
 

@@ -4,8 +4,8 @@ import (
 	goHex "encoding/hex"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/helper/keccak"
 )
 
 type ReceiptStatus uint64

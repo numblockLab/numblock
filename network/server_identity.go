@@ -3,11 +3,11 @@ package network
 import (
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/network/common"
-	peerEvent "https://github.com/numblockLab/numblock/network/event"
-	"https://github.com/numblockLab/numblock/network/grpc"
-	"https://github.com/numblockLab/numblock/network/identity"
-	"https://github.com/numblockLab/numblock/network/proto"
+	"github.com/numblockLab/numblock/network/common"
+	peerEvent "github.com/numblockLab/numblock/network/event"
+	"github.com/numblockLab/numblock/network/grpc"
+	"github.com/numblockLab/numblock/network/identity"
+	"github.com/numblockLab/numblock/network/proto"
 	"github.com/armon/go-metrics"
 	kbucket "github.com/libp2p/go-libp2p-kbucket"
 	"github.com/libp2p/go-libp2p-kbucket/keyspace"

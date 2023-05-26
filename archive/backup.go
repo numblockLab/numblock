@@ -7,9 +7,9 @@ import (
 	"io"
 	"os"
 
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/server/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/server/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/hashicorp/go-hclog"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"

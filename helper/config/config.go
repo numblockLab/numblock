@@ -1,8 +1,8 @@
 package config
 
 import (
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/types"
 )
 
 // GetWhitelist fetches whitelist object from the config

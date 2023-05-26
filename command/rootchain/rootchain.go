@@ -3,9 +3,9 @@ package rootchain
 import (
 	"github.com/spf13/cobra"
 
-	"https://github.com/numblockLab/numblock/command/rootchain/fund"
-	"https://github.com/numblockLab/numblock/command/rootchain/initcontracts"
-	"https://github.com/numblockLab/numblock/command/rootchain/server"
+	"github.com/numblockLab/numblock/command/rootchain/fund"
+	"github.com/numblockLab/numblock/command/rootchain/initcontracts"
+	"github.com/numblockLab/numblock/command/rootchain/server"
 )
 
 // GetCommand creates "rootchain" helper command

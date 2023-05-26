@@ -6,9 +6,9 @@ import (
 	"math/big"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/jsonrpc"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/jsonrpc"
+	"github.com/numblockLab/numblock/types"
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 )

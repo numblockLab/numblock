@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/stretchr/testify/require"
 )
 

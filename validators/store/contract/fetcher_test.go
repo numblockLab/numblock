@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"testing"
 
-	testHelper "https://github.com/numblockLab/numblock/helper/tests"
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	testHelper "github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 	"github.com/stretchr/testify/assert"
 )
 

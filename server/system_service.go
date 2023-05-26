@@ -6,10 +6,10 @@ import (
 	"errors"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/blockchain"
-	"https://github.com/numblockLab/numblock/network/common"
-	"https://github.com/numblockLab/numblock/server/proto"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/blockchain"
+	"github.com/numblockLab/numblock/network/common"
+	"github.com/numblockLab/numblock/server/proto"
+	"github.com/numblockLab/numblock/types"
 	"github.com/libp2p/go-libp2p/core/peer"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )

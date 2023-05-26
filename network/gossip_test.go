@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	testproto "https://github.com/numblockLab/numblock/network/proto"
+	testproto "github.com/numblockLab/numblock/network/proto"
 	"github.com/libp2p/go-libp2p/core/peer"
 )
 

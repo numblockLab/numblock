@@ -1,6 +1,6 @@
 package polybft
 
-import "https://github.com/numblockLab/numblock/types"
+import "github.com/numblockLab/numblock/types"
 
 type PostBlockRequest struct {
 	// FullBlock is a reference of the executed block

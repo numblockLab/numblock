@@ -3,9 +3,9 @@ package candidates
 import (
 	"context"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
-	ibftOp "https://github.com/numblockLab/numblock/consensus/ibft/proto"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
+	ibftOp "github.com/numblockLab/numblock/consensus/ibft/proto"
 	"github.com/spf13/cobra"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )

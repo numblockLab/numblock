@@ -3,11 +3,11 @@ package status
 import (
 	"context"
 
-	"https://github.com/numblockLab/numblock/command"
-	"https://github.com/numblockLab/numblock/command/helper"
+	"github.com/numblockLab/numblock/command"
+	"github.com/numblockLab/numblock/command/helper"
 	"github.com/spf13/cobra"
 
-	txpoolOp "https://github.com/numblockLab/numblock/txpool/proto"
+	txpoolOp "github.com/numblockLab/numblock/txpool/proto"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )
 

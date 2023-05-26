@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/e2e/framework"
-	"https://github.com/numblockLab/numblock/server/proto"
+	"github.com/numblockLab/numblock/e2e/framework"
+	"github.com/numblockLab/numblock/server/proto"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )
 

@@ -3,7 +3,7 @@ package memory
 import (
 	"testing"
 
-	"https://github.com/numblockLab/numblock/blockchain/storage"
+	"github.com/numblockLab/numblock/blockchain/storage"
 )
 
 func TestStorage(t *testing.T) {

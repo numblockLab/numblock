@@ -7,11 +7,11 @@ import (
 	"sync"
 	"testing"
 
-	"https://github.com/numblockLab/numblock/crypto"
-	testHelper "https://github.com/numblockLab/numblock/helper/tests"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
-	"https://github.com/numblockLab/numblock/validators/store"
+	"github.com/numblockLab/numblock/crypto"
+	testHelper "github.com/numblockLab/numblock/helper/tests"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/validators/store"
 	"github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/assert"
 )

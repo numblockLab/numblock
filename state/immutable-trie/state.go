@@ -5,8 +5,8 @@ import (
 
 	lru "github.com/hashicorp/golang-lru"
 
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
 )
 
 type State struct {

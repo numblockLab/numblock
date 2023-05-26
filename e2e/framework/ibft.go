@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"https://github.com/numblockLab/numblock/helper/common"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/common"
+	"github.com/numblockLab/numblock/types"
 )
 
 type IBFTServersManager struct {

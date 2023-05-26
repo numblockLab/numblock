@@ -6,9 +6,9 @@ import (
 	"math/big"
 	"math/bits"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/helper/keccak"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/helper/keccak"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/fastrlp"
 )
 

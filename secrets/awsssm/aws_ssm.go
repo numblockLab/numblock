@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"https://github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/secrets"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/ssm"

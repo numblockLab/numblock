@@ -11,8 +11,8 @@ import (
 	"strings"
 	"text/template"
 
-	gensc "https://github.com/numblockLab/numblock/consensus/polybft/contractsapi"
-	"https://github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
+	gensc "github.com/numblockLab/numblock/consensus/polybft/contractsapi"
+	"github.com/numblockLab/numblock/consensus/polybft/contractsapi/artifact"
 	"github.com/umbracle/ethgo/abi"
 )
 
@@ -168,7 +168,7 @@ package contractsapi
 import (
 	"math/big"
 
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo/abi"
 	"github.com/umbracle/ethgo"
 )

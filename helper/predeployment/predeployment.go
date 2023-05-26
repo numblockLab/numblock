@@ -8,13 +8,13 @@ import (
 	"math/big"
 	"os"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/state"
-	itrie "https://github.com/numblockLab/numblock/state/immutable-trie"
-	"https://github.com/numblockLab/numblock/state/runtime"
-	"https://github.com/numblockLab/numblock/state/runtime/evm"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/state"
+	itrie "github.com/numblockLab/numblock/state/immutable-trie"
+	"github.com/numblockLab/numblock/state/runtime"
+	"github.com/numblockLab/numblock/state/runtime/evm"
+	"github.com/numblockLab/numblock/types"
 	"github.com/umbracle/ethgo/abi"
 )
 

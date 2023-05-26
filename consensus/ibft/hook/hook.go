@@ -1,8 +1,8 @@
 package hook
 
 import (
-	"https://github.com/numblockLab/numblock/state"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/state"
+	"github.com/numblockLab/numblock/types"
 )
 
 type ShouldWriteTransactionsFunc func(uint64) bool

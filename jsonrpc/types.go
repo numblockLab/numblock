@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"https://github.com/numblockLab/numblock/helper/hex"
-	"https://github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/helper/hex"
+	"github.com/numblockLab/numblock/types"
 )
 
 // For union type of transaction and types.Hash

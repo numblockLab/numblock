@@ -5,10 +5,10 @@ import (
 	"math/big"
 	"path/filepath"
 
-	"https://github.com/numblockLab/numblock/consensus/ibft"
-	"https://github.com/numblockLab/numblock/crypto"
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/consensus/ibft"
+	"github.com/numblockLab/numblock/crypto"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 )
 
 type ConsensusType int

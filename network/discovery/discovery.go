@@ -6,13 +6,13 @@ import (
 	"fmt"
 	"time"
 
-	"https://github.com/numblockLab/numblock/network/common"
-	"https://github.com/numblockLab/numblock/network/event"
+	"github.com/numblockLab/numblock/network/common"
+	"github.com/numblockLab/numblock/network/event"
 	"github.com/hashicorp/go-hclog"
 	"github.com/libp2p/go-libp2p/core/network"
 
-	"https://github.com/numblockLab/numblock/network/grpc"
-	"https://github.com/numblockLab/numblock/network/proto"
+	"github.com/numblockLab/numblock/network/grpc"
+	"github.com/numblockLab/numblock/network/proto"
 	kb "github.com/libp2p/go-libp2p-kbucket"
 	"github.com/libp2p/go-libp2p/core/peer"
 )

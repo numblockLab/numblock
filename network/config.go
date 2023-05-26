@@ -3,8 +3,8 @@ package network
 import (
 	"net"
 
-	"https://github.com/numblockLab/numblock/chain"
-	"https://github.com/numblockLab/numblock/secrets"
+	"github.com/numblockLab/numblock/chain"
+	"github.com/numblockLab/numblock/secrets"
 	"github.com/multiformats/go-multiaddr"
 )
 

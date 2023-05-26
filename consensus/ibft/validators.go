@@ -3,8 +3,8 @@ package ibft
 import (
 	"math"
 
-	"https://github.com/numblockLab/numblock/types"
-	"https://github.com/numblockLab/numblock/validators"
+	"github.com/numblockLab/numblock/types"
+	"github.com/numblockLab/numblock/validators"
 )
 
 func CalcMaxFaultyNodes(s validators.Validators) int {
